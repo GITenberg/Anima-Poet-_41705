@@ -1,0 +1,37 @@
+_repo: Anima-Poet-_41705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+  editor:
+    agent_name: Coleridge, Ernest Hartley
+    birthdate: 1846
+    deathdate: 1920
+    gutenberg_agent_id: '2902'
+    url: http://www.gutenberg.org/2009/agents/2902
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge
+description: ''
+gutenberg_issued: '2012-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834 -- Quotations'
+- !lcsh 'Quotations, English'
+- !lcc 'PR'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834 -- Notebooks, sketchbooks, etc.'
+title: Anima Poetæ
+url: http://www.gutenberg.org/ebooks/41705
